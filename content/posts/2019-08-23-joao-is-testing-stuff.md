@@ -9,5 +9,8 @@ category: first category
 tags:
   - markdown
 ---
+![my super godzilla](/media/735001-min.jpg "Godzilla")
+
 ## markdown is pretty cool
+
 Look at what I can do
