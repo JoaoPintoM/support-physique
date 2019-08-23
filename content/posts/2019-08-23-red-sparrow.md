@@ -37,10 +37,15 @@ C’est un film noir aux multiples rebondissements qui n’a pas peur de choqué
 - Pas mal de longueurs
 
 ***
+<figure class="" style="width: 440px">
+	<img src="/media/redsparrow02.jpg" alt="image red sparrow">
+</figure>
 
 #### J’attribue à Red Sparrow la note de :
 <blockquote>
   <b>7 / 10</b>
 </blockquote>
 
-Stagounet.
+<br />
+
+<p class="float-right">Stagounet.</p>
