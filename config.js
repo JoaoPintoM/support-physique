@@ -25,9 +25,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Support Physique',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Un blog sur la passion du media physique. Tests de blu rays et critiques de films',
     contacts: {
       email: '#',
       telegram: '#',
