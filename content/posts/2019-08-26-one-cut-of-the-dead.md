@@ -12,7 +12,8 @@ category: critique ciné
 tags:
   - zombie dead
 ---
-Aujourd’hui au programme : **«One Cut Of The Dead»** !
+
+> Aujourd’hui au programme : **Du sang et du rire** !
 
 “Ne coupez pas” est le film de fin d’études du jeune Shinichiro Ueda. C’est un long métrage mettant en scène une équipe de tournage filmant un film de zombie à petit budget. Un petit **Bijou**, un **OVNI**, une pépite cinématographique.
 
