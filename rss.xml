@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RSS Feed]]></title><description><![CDATA[Un blog sur la passion du media physique. Tests de blu rays et critiques de films.]]></description><link>https://support-physique.netlify.com/</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 26 Aug 2019 09:57:40 GMT</lastBuildDate><item><title><![CDATA[Red Sparrow]]></title><description><![CDATA[Une danseuse de ballet professionnel, un thriller d'espionnage, un film noir.]]></description><link>https://support-physique.netlify.com/red-sparrow</link><guid isPermaLink="false">https://support-physique.netlify.com/red-sparrow</guid><pubDate>Fri, 23 Aug 2019 11:35:27 GMT</pubDate><content:encoded>&lt;!-- &lt;figure class=&quot;float-right&quot; style=&quot;width: 240px&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RSS Feed]]></title><description><![CDATA[Un blog sur la passion du media physique. Tests de blu rays et critiques de films.]]></description><link>https://support-physique.netlify.com/</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 26 Aug 2019 10:05:44 GMT</lastBuildDate><item><title><![CDATA[Red Sparrow]]></title><description><![CDATA[Une danseuse de ballet professionnel, un thriller d'espionnage, un film noir.]]></description><link>https://support-physique.netlify.com/red-sparrow</link><guid isPermaLink="false">https://support-physique.netlify.com/red-sparrow</guid><pubDate>Fri, 23 Aug 2019 11:35:27 GMT</pubDate><content:encoded>&lt;!-- &lt;figure class=&quot;float-right&quot; style=&quot;width: 240px&quot;&gt;
 	&lt;img src=&quot;/media/red-sparrow.jpg&quot; alt=&quot;image red sparrow&quot;&gt;
 	&lt;figcaption&gt;Affiche du film.&lt;/figcaption&gt;
 &lt;/figure&gt; --&gt;
@@ -35,7 +35,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/d02a873d593cfd7350fb271933ad1f07/0d268/735001-min.jpg&quot;
+    href=&quot;/support-physique/static/d02a873d593cfd7350fb271933ad1f07/0d268/735001-min.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -46,28 +46,28 @@
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/d02a873d593cfd7350fb271933ad1f07/01472/735001-min.webp 240w,
-/static/d02a873d593cfd7350fb271933ad1f07/222bd/735001-min.webp 480w,
-/static/d02a873d593cfd7350fb271933ad1f07/620b9/735001-min.webp 960w,
-/static/d02a873d593cfd7350fb271933ad1f07/28063/735001-min.webp 1440w,
-/static/d02a873d593cfd7350fb271933ad1f07/34ef4/735001-min.webp 1920w,
-/static/d02a873d593cfd7350fb271933ad1f07/367c7/735001-min.webp 2880w&quot;
+          srcset=&quot;/support-physique/static/d02a873d593cfd7350fb271933ad1f07/01472/735001-min.webp 240w,
+/support-physique/static/d02a873d593cfd7350fb271933ad1f07/222bd/735001-min.webp 480w,
+/support-physique/static/d02a873d593cfd7350fb271933ad1f07/620b9/735001-min.webp 960w,
+/support-physique/static/d02a873d593cfd7350fb271933ad1f07/28063/735001-min.webp 1440w,
+/support-physique/static/d02a873d593cfd7350fb271933ad1f07/34ef4/735001-min.webp 1920w,
+/support-physique/static/d02a873d593cfd7350fb271933ad1f07/367c7/735001-min.webp 2880w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/d02a873d593cfd7350fb271933ad1f07/3bc27/735001-min.jpg 240w,
-/static/d02a873d593cfd7350fb271933ad1f07/98431/735001-min.jpg 480w,
-/static/d02a873d593cfd7350fb271933ad1f07/b3ee8/735001-min.jpg 960w,
-/static/d02a873d593cfd7350fb271933ad1f07/b97fe/735001-min.jpg 1440w,
-/static/d02a873d593cfd7350fb271933ad1f07/fb329/735001-min.jpg 1920w,
-/static/d02a873d593cfd7350fb271933ad1f07/0d268/735001-min.jpg 2880w&quot;
+          srcset=&quot;/support-physique/static/d02a873d593cfd7350fb271933ad1f07/3bc27/735001-min.jpg 240w,
+/support-physique/static/d02a873d593cfd7350fb271933ad1f07/98431/735001-min.jpg 480w,
+/support-physique/static/d02a873d593cfd7350fb271933ad1f07/b3ee8/735001-min.jpg 960w,
+/support-physique/static/d02a873d593cfd7350fb271933ad1f07/b97fe/735001-min.jpg 1440w,
+/support-physique/static/d02a873d593cfd7350fb271933ad1f07/fb329/735001-min.jpg 1920w,
+/support-physique/static/d02a873d593cfd7350fb271933ad1f07/0d268/735001-min.jpg 2880w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/d02a873d593cfd7350fb271933ad1f07/b3ee8/735001-min.jpg&quot;
+          src=&quot;/support-physique/static/d02a873d593cfd7350fb271933ad1f07/b3ee8/735001-min.jpg&quot;
           alt=&quot;my super godzilla&quot;
           title=&quot;Godzilla&quot;
           loading=&quot;lazy&quot;
