@@ -1,8 +1,8 @@
 ---
 template: post
-title: La notation sur support-physique
+title: La notation
 slug: la-notation
-draft: true
+draft: false
 date: 2019-08-26T18:36:18.614Z
 description: >-
   A – Excellent | B – au-dessus de la moyenne | C – Moyen D | – En dessous de la
@@ -27,8 +27,6 @@ Tout le monde sait que rien n’est parfait. C’est pour ça que j’ai décid�
 * F - Mauvais
 
 Et pour les films d’exceptions, je donnerais la note de **A+**
-
-****
 
 ![](/media/ckguafaweaajchp.jpg)
 
