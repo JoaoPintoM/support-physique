@@ -37,9 +37,8 @@ C’est un film noir aux multiples rebondissements qui n’a pas peur de choqué
 - Pas mal de longueurs
 
 ***
-<figure class="" style="width: 440px">
-	<img src="/media/2019-08-23-red-sparrow/redsparrow02.jpg" alt="image red sparrow">
-</figure>
+
+![image red sparrow](/media/2019-08-23-red-sparrow/redsparrow02.jpg "image red sparrow")
 
 #### J’attribue à Red Sparrow la note de :
 <blockquote>
