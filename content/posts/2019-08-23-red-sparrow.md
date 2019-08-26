@@ -18,7 +18,7 @@ Le film est un thriller d’espionnage qui tourne autour du personnage de Domini
 
 
 <figure class="float-right" style="width: 240px">
-	<img src="/media/red-sparrow.jpg" alt="image red sparrow">
+	<img src="/media/2019-08-23-red-sparrow/red-sparrow.jpg" alt="image red sparrow">
 	<figcaption>Affiche du film.</figcaption>
 </figure>
 
@@ -38,12 +38,12 @@ C’est un film noir aux multiples rebondissements qui n’a pas peur de choqué
 
 ***
 <figure class="" style="width: 440px">
-	<img src="/media/redsparrow02.jpg" alt="image red sparrow">
+	<img src="/media/2019-08-23-red-sparrow/redsparrow02.jpg" alt="image red sparrow">
 </figure>
 
 #### J’attribue à Red Sparrow la note de :
 <blockquote>
-  <b>7 / 10</b>
+  <b>B</b>
 </blockquote>
 
 <br />
