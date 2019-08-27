@@ -12,7 +12,7 @@ type Props = {
   description?: string
 };
 
-const Layout = ({ children, title, description }: Props) => (
+const Layout = ({ children, title, description, isHome }: Props) => (
   <div>
     <Helmet>
       <html lang="en" />
@@ -26,10 +26,10 @@ const Layout = ({ children, title, description }: Props) => (
     <div className="site-wrapper">
       <header className="site-header outer responsive-header-img">
         <div class="inner">
-          <div class="site-header-content">
-            <h1 class="site-title">Angristan's blog</h1>
-            <h2 class="site-description">Dev &amp; Ops</h2>
-          </div>
+        { isHome ? <div class="site-header-content">
+            <h1 class="site-title">{title}</h1>
+            <h2 class="site-description">{description}</h2>
+          </div> : null }
           <nav class="site-nav">
             <div class="site-nav-left">
               <ul class="nav" role="menu">
@@ -120,7 +120,6 @@ const Layout = ({ children, title, description }: Props) => (
       <main id="site-main" class="site-main outer">
         <div class="inner">
         {children}
-          
         </div>
       </main>
 
@@ -137,5 +136,6 @@ const Layout = ({ children, title, description }: Props) => (
     </div>
   </div>
 );
+
 
 export default Layout;

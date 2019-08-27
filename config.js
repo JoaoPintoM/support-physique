@@ -3,8 +3,8 @@
 module.exports = {
   url: 'http://support-physique.com/',
   pathPrefix: '/',
-  title: 'Support-physique par Stagounet',
-  subtitle: 'Un blog sur la passion du media physique. Tests de blu rays et critiques de films.',
+  title: 'Support-physique',
+  subtitle: 'Tests de blu-ray et critiques de films',
   copyright: '© All rights reserved.',
   disqusShortname: 'support-physique-com',
   postsPerPage: 4,
