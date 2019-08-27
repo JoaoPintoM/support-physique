@@ -85,7 +85,14 @@
   Link: </styles-9ac0e62a91234541859a.js>; rel=preload; as=script
   Link: </1-f3bc92f78a9bb6642277.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-a0a2a42e9309cc262be2.js>; rel=preload; as=script
-/la-notation
+/pages/contacts/
+  Link: </webpack-runtime-ec74be2e33cf92c2b46f.js>; rel=preload; as=script
+  Link: </styles-9ac0e62a91234541859a.js>; rel=preload; as=script
+  Link: </app-a1ce79885b7057e06cc7.js>; rel=preload; as=script
+  Link: </styles-9ac0e62a91234541859a.js>; rel=preload; as=script
+  Link: </1-f3bc92f78a9bb6642277.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-a0a2a42e9309cc262be2.js>; rel=preload; as=script
+/red-sparrow
   Link: </webpack-runtime-ec74be2e33cf92c2b46f.js>; rel=preload; as=script
   Link: </styles-9ac0e62a91234541859a.js>; rel=preload; as=script
   Link: </app-a1ce79885b7057e06cc7.js>; rel=preload; as=script
@@ -93,7 +100,7 @@
   Link: </1-f3bc92f78a9bb6642277.js>; rel=preload; as=script
   Link: </2-aacd57ada7d72eee1112.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-d9a983a801cf4413c65d.js>; rel=preload; as=script
-/red-sparrow
+/la-notation
   Link: </webpack-runtime-ec74be2e33cf92c2b46f.js>; rel=preload; as=script
   Link: </styles-9ac0e62a91234541859a.js>; rel=preload; as=script
   Link: </app-a1ce79885b7057e06cc7.js>; rel=preload; as=script
@@ -109,13 +116,6 @@
   Link: </1-f3bc92f78a9bb6642277.js>; rel=preload; as=script
   Link: </2-aacd57ada7d72eee1112.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-d9a983a801cf4413c65d.js>; rel=preload; as=script
-/pages/contacts/
-  Link: </webpack-runtime-ec74be2e33cf92c2b46f.js>; rel=preload; as=script
-  Link: </styles-9ac0e62a91234541859a.js>; rel=preload; as=script
-  Link: </app-a1ce79885b7057e06cc7.js>; rel=preload; as=script
-  Link: </styles-9ac0e62a91234541859a.js>; rel=preload; as=script
-  Link: </1-f3bc92f78a9bb6642277.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-a0a2a42e9309cc262be2.js>; rel=preload; as=script
 /tag/critique
   Link: </webpack-runtime-ec74be2e33cf92c2b46f.js>; rel=preload; as=script
   Link: </styles-9ac0e62a91234541859a.js>; rel=preload; as=script
