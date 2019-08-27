@@ -3,6 +3,7 @@ template: post
 title: La notation
 slug: la-notation
 draft: false
+image: toto
 date: 2019-08-26T18:36:18.614Z
 description: >-
   A – Excellent | B – au-dessus de la moyenne | C – Moyen D | – En dessous de la

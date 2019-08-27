@@ -1,12 +1,12 @@
 'use strict';
 
 module.exports = {
-  url: 'https://support-physique.netlify.com/',
+  url: 'http://support-physique.com/',
   pathPrefix: '/',
   title: 'Support-physique par Stagounet',
   subtitle: 'Un blog sur la passion du media physique. Tests de blu rays et critiques de films.',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'support-physique-com',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-93253221-1',
   useKatex: false,
