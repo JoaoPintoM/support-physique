@@ -114,7 +114,7 @@ body {
     padding-top: 12px;
     padding-bottom: 12px;
     color: #fff;
-    background: color(var(--darkgrey) l(-5%)) no-repeat center center;
+    background: #090a0b no-repeat 50%;
     background-size: cover;
 }
 
@@ -153,14 +153,14 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 4vw 4vw;
+    padding: 8vw 4vw;
     min-height: 200px;
     max-height: 450px;
     text-align: center;
 }
 
 .responsive-header-img {
-  background-image: url(https://angristan.xyz/content/images/size/w1000/2018/01/Emptiness-by-Jaakko-Moilanen.jpg);
+  background-image: url(https://angristan.xyz/content/images/size/w2000/2018/01/Emptiness-by-Jaakko-Moilanen.jpg);
 }
 @media(max-width: 1000px) {
   .responsive-header-img {
