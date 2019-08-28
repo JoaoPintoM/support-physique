@@ -3,7 +3,7 @@ template: post
 title: One Cut Of The Dead
 slug: One Cut Of The Dead
 draft: false
-image: /media/81f56fxb2il._sx342_.jpg
+image: /media/one-cut-of-the-dead/onecut.jpeg
 date: 2019-08-26T20:10:47.045Z
 description: >-
   Un long métrage mettant en scène une équipe de tournage filmant un film de
@@ -15,6 +15,8 @@ tags:
 ---
 
 > Aujourd’hui au programme : **Du sang et du rire** !
+
+![](/media/one-cut-of-the-dead/onecut.jpeg)
 
 “Ne coupez pas” est le film de fin d’études du jeune Shinichiro Ueda. C’est un long métrage mettant en scène une équipe de tournage filmant un film de zombie à petit budget. Un petit **Bijou**, un **OVNI**, une pépite cinématographique.
 

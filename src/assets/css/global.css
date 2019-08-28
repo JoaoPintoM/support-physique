@@ -289,15 +289,9 @@ body {
     letter-spacing: 0;
     text-rendering: optimizeLegibility;
     background: #fff;
-
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     -moz-font-feature-settings: "liga" on;
-}
-
-::selection {
-    text-shadow: none;
-    background: color(var(--blue) lightness(+30%));
 }
 
 hr {

@@ -7,7 +7,7 @@ module.exports = {
   subtitle: 'Tests de blu-ray et critiques de films',
   copyright: '© All rights reserved.',
   disqusShortname: 'support-physique-com',
-  postsPerPage: 4,
+  postsPerPage: 10,
   googleAnalyticsId: 'UA-93253221-1',
   useKatex: false,
   menu: [
