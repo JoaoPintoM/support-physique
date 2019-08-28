@@ -2,35 +2,25 @@
 import React from 'react';
 import moment from 'moment';
 import { Link } from 'gatsby';
-import type { Edges } from '../../types';
 
-moment.locale('fr');
-
-type Props = {
-  edges: Edges
-};
-
-const Feed = ({ edges }: Props) => (
+const Feed = ({ edges }) => (
   <div class="post-feed">
-    {edges.map((edge) => (
-      <article
-        key={edge.node.fields.slug}
-        class="post-card post"
-      >
+    {edges.map((edge, index) => (
+      <article key={edge.node.fields.slug} className={`post-card post  ${(index === 0 ? 'post-card-large' : '')}`}>
         <Link to={edge.node.fields.slug} className="post-card-image-link">
           <img
             class="post-card-image"
-        //     srcset="https://angristan.xyz/content/images/size/w300/2019/08/ghost-nginx.png 300w,
-        // https://angristan.xyz/content/images/size/w600/2019/08/ghost-nginx.png 600w,
-        // https://angristan.xyz/content/images/size/w1000/2019/08/ghost-nginx.png 1000w,
-        //           /content/images/size/w2000/2019/08/ghost-nginx.png 2000w"
+            //     srcset="https://angristan.xyz/content/images/size/w300/2019/08/ghost-nginx.png 300w,
+            // https://angristan.xyz/content/images/size/w600/2019/08/ghost-nginx.png 600w,
+            // https://angristan.xyz/content/images/size/w1000/2019/08/ghost-nginx.png 1000w,
+            //           /content/images/size/w2000/2019/08/ghost-nginx.png 2000w"
             sizes="(max-width: 1000px) 400px, 700px"
             src="https://angristan.xyz/content/images/size/w600/2019/08/ghost-nginx.png"
             alt={edge.node.frontmatter.title}
           />
         </Link>
         <div class="post-card-content">
-        <Link to={edge.node.fields.slug} className="post-card-content-link">
+          <Link to={edge.node.fields.slug} className="post-card-content-link">
             <header class="post-card-header">
               <span class="post-card-tags">{edge.node.frontmatter.category}</span>
               <h2 class="post-card-title">{edge.node.frontmatter.title}</h2>
@@ -52,7 +42,10 @@ const Feed = ({ edges }: Props) => (
                 </a>
               </li>
             </ul>
-            <time class="reading-time" datetime={moment(edge.node.frontmatter.date).format('YYYY-MM-DD')}>
+            <time
+              class="reading-time"
+              datetime={moment(edge.node.frontmatter.date).format('YYYY-MM-DD')}
+            >
               {moment(edge.node.frontmatter.date).format('DD MMMM YYYY')}
             </time>
           </footer>
@@ -61,7 +54,7 @@ const Feed = ({ edges }: Props) => (
     ))}
   </div>
 
-    // <article class="post-card post tag-sysadmin tag-linux tag-ghost-tag post-card-large">
+  // <article class="post-card post tag-sysadmin tag-linux tag-ghost-tag post-card-large">
   //   <a class="post-card-image-link" href="/ghost-nginx-cache/">
   //     <img
   //       class="post-card-image"
