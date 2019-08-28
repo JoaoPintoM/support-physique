@@ -36,8 +36,8 @@ const Feed = ({ edges }) => (
                 <a href="/author/angristan/" className="static-avatar">
                   <img
                     className="author-profile-image"
-                    src="/content/images/size/w100/2018/12/200stan.jpg"
-                    alt="Stanislas (angristan)"
+                    src="/photo.jpg"
+                    alt="Picture of Stagounet"
                   />
                 </a>
               </li>
