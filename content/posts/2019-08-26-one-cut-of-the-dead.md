@@ -3,6 +3,7 @@ template: post
 title: One Cut Of The Dead
 slug: One Cut Of The Dead
 draft: false
+image: /media/81f56fxb2il._sx342_.jpg
 date: 2019-08-26T20:10:47.045Z
 description: >-
   Un long métrage mettant en scène une équipe de tournage filmant un film de

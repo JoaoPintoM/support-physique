@@ -15,7 +15,7 @@ const Feed = ({ edges }) => (
             // https://angristan.xyz/content/images/size/w1000/2019/08/ghost-nginx.png 1000w,
             //           /content/images/size/w2000/2019/08/ghost-nginx.png 2000w"
             sizes="(max-width: 1000px) 400px, 700px"
-            src="https://angristan.xyz/content/images/size/w600/2019/08/ghost-nginx.png"
+            src={edge.node.frontmatter.image}
             alt={edge.node.frontmatter.title}
           />
         </Link>

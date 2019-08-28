@@ -3,6 +3,7 @@ template: post
 title: Red Sparrow
 slug: red-sparrow
 draft: false
+image: /media/2019-08-23-red-sparrow/red-sparrow.jpg
 date: 2019-08-23T11:35:27.020Z
 description: 'Une danseuse de ballet professionnel, un thriller d''espionnage, un film noir.'
 category: critique ciné
