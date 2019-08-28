@@ -4,14 +4,14 @@ import moment from 'moment';
 import { Link } from 'gatsby';
 
 const Feed = ({ edges }) => (
-  <div class="post-feed">
+  <div className="post-feed">
     {edges.map((edge, index) => (
       <article key={edge.node.fields.slug} className={`post-card post  ${(index === 0 ? 'post-card-large' : '')}`}>
         <Link to={edge.node.fields.slug} className="post-card-image-link">
           <img
-            class="post-card-image"
+            className="post-card-image"
             //     srcset="https://angristan.xyz/content/images/size/w300/2019/08/ghost-nginx.png 300w,
-            // https://angristan.xyz/content/images/size/w600/2019/08/ghost-nginx.png 600w,
+            // https://angristan.xyz/content/images/size/w600/2019/08/ghoszt-nginx.png 600w,
             // https://angristan.xyz/content/images/size/w1000/2019/08/ghost-nginx.png 1000w,
             //           /content/images/size/w2000/2019/08/ghost-nginx.png 2000w"
             sizes="(max-width: 1000px) 400px, 700px"
@@ -19,23 +19,23 @@ const Feed = ({ edges }) => (
             alt={edge.node.frontmatter.title}
           />
         </Link>
-        <div class="post-card-content">
+        <div className="post-card-content">
           <Link to={edge.node.fields.slug} className="post-card-content-link">
-            <header class="post-card-header">
-              <span class="post-card-tags">{edge.node.frontmatter.category}</span>
-              <h2 class="post-card-title">{edge.node.frontmatter.title}</h2>
+            <header className="post-card-header">
+              <span className="post-card-tags">{edge.node.frontmatter.category}</span>
+              <h2 className="post-card-title">{edge.node.frontmatter.title}</h2>
             </header>
-            <section class="post-card-excerpt">
+            <section className="post-card-excerpt">
               <p>{edge.node.frontmatter.description}</p>
             </section>
           </Link>
-          <footer class="post-card-meta">
-            <ul class="author-list">
-              <li class="author-list-item">
-                <div class="author-name-tooltip">Joao</div>
-                <a href="/author/angristan/" class="static-avatar">
+          <footer className="post-card-meta">
+            <ul className="author-list">
+              <li className="author-list-item">
+                <div className="author-name-tooltip">Joao</div>
+                <a href="/author/angristan/" className="static-avatar">
                   <img
-                    class="author-profile-image"
+                    className="author-profile-image"
                     src="/content/images/size/w100/2018/12/200stan.jpg"
                     alt="Stanislas (angristan)"
                   />
@@ -43,8 +43,8 @@ const Feed = ({ edges }) => (
               </li>
             </ul>
             <time
-              class="reading-time"
-              datetime={moment(edge.node.frontmatter.date).format('YYYY-MM-DD')}
+              className="reading-time"
+              dateTime={moment(edge.node.frontmatter.date).format('YYYY-MM-DD')}
             >
               {moment(edge.node.frontmatter.date).format('DD MMMM YYYY')}
             </time>
@@ -54,10 +54,10 @@ const Feed = ({ edges }) => (
     ))}
   </div>
 
-  // <article class="post-card post tag-sysadmin tag-linux tag-ghost-tag post-card-large">
-  //   <a class="post-card-image-link" href="/ghost-nginx-cache/">
+  // <article className="post-card post tag-sysadmin tag-linux tag-ghost-tag post-card-large">
+  //   <a className="post-card-image-link" href="/ghost-nginx-cache/">
   //     <img
-  //       class="post-card-image"
+  //       className="post-card-image"
   //       srcset="https://angristan.xyz/content/images/size/w300/2019/08/ghost-nginx.png 300w,
   //       https://angristan.xyz/content/images/size/w600/2019/08/ghost-nginx.png 600w,
   //       https://angristan.xyz/content/images/size/w1000/2019/08/ghost-nginx.png 1000w,
@@ -67,30 +67,30 @@ const Feed = ({ edges }) => (
   //       alt="Caching Ghost with Nginx"
   //     />
   //   </a>
-  //   <div class="post-card-content">
-  //     <a class="post-card-content-link" href="/ghost-nginx-cache/">
-  //       <header class="post-card-header">
-  //         <span class="post-card-tags">SysAdmin</span>
-  //         <h2 class="post-card-title">Caching Ghost with Nginx</h2>
+  //   <div className="post-card-content">
+  //     <a className="post-card-content-link" href="/ghost-nginx-cache/">
+  //       <header className="post-card-header">
+  //         <span className="post-card-tags">SysAdmin</span>
+  //         <h2 className="post-card-title">Caching Ghost with Nginx</h2>
   //       </header>
-  //       <section class="post-card-excerpt">
+  //       <section className="post-card-excerpt">
   //         <p>Make you Ghost website faster and handle more requests with Nginx cache!</p>
   //       </section>
   //     </a>
-  //     <footer class="post-card-meta">
-  //       <ul class="author-list">
-  //         <li class="author-list-item">
-  //           <div class="author-name-tooltip">Stanislas (angristan)</div>
-  //           <a href="/author/angristan/" class="static-avatar">
+  //     <footer className="post-card-meta">
+  //       <ul className="author-list">
+  //         <li className="author-list-item">
+  //           <div className="author-name-tooltip">Stanislas (angristan)</div>
+  //           <a href="/author/angristan/" className="static-avatar">
   //             <img
-  //               class="author-profile-image"
+  //               className="author-profile-image"
   //               src="/content/images/size/w100/2018/12/200stan.jpg"
   //               alt="Stanislas (angristan)"
   //             />
   //           </a>
   //         </li>
   //       </ul>
-  //       <time class="reading-time" datetime="2019-08-26">
+  //       <time className="reading-time" datetime="2019-08-26">
   //         26 August 2019
   //       </time>
   //     </footer>

@@ -21,18 +21,18 @@ const Layout = ({ children, title, description, isHome, template }) => (
 
     <div className="site-wrapper">
       <Header isHome={isHome} />
-      <main id="site-main" class="site-main outer">
-        <div class="inner">
+      <main id="site-main" className="site-main outer">
+        <div className="inner">
           {children}
         </div>
       </main>
 
-      <footer class="site-footer outer">
-        <div class="site-footer-content inner">
+      <footer className="site-footer outer">
+        <div className="site-footer-content inner">
           <section>
             <p>Stagounet</p>
           </section>
-          <nav class="site-footer-nav">
+          <nav className="site-footer-nav">
             <a href="/about/">About</a>
           </nav>
         </div>

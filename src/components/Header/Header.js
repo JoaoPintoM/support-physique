@@ -2,35 +2,36 @@
 import React from 'react';
 
 const Header = ({ isHome }) => (
-  <header className="site-header outer responsive-header-img">
-    <div class="inner">
+  <header className="site-header outer responsive-header-img"
+    >
+    <div className="inner">
       {isHome ? (
-        <div class="site-header-content">
-          <h1 class="site-title">prout</h1>
-          <h2 class="site-description">subprout</h2>
+        <div className="site-header-content">
+          <h1 className="site-title">prout</h1>
+          <h2 className="site-description">subprout</h2>
         </div>
       ) : null}
-      <nav class="site-nav">
-        <div class="site-nav-left">
-          <ul class="nav" role="menu">
-            <li class="nav-home nav-current" role="menuitem">
+      <nav className="site-nav">
+        <div className="site-nav-left">
+          <ul className="nav" role="menu">
+            <li className="nav-home nav-current" role="menuitem">
               <a href="https://angristan.xyz/">Home</a>
             </li>
-            <li class="nav-french-blog" role="menuitem">
+            <li className="nav-french-blog" role="menuitem">
               <a href="https://angristan.fr/">French Blog</a>
             </li>
-            <li class="nav-public-services" role="menuitem">
+            <li className="nav-public-services" role="menuitem">
               <a href="https://angristan.xyz/public-services/">Public Services</a>
             </li>
-            <li class="nav-about" role="menuitem">
+            <li className="nav-about" role="menuitem">
               <a href="https://angristan.xyz/about/">About</a>
             </li>
           </ul>
         </div>
-        <div class="site-nav-right">
-          <div class="social-links">
+        <div className="site-nav-right">
+          <div className="social-links">
             <a
-              class="social-link social-link-tw"
+              className="social-link social-link-tw"
               href="https://twitter.com/fuolpit"
               title="Twitter"
               target="_blank"
@@ -42,7 +43,7 @@ const Header = ({ isHome }) => (
             </a>
             <a
               rel="me"
-              class="social-link social-link-ms"
+              className="social-link social-link-ms"
               href="https://mstdn.io/@angristan"
               target="_blank"
             >
@@ -54,7 +55,7 @@ const Header = ({ isHome }) => (
               </svg>
             </a>
             <a
-              class="social-link social-link-gh"
+              className="social-link social-link-gh"
               href="https://github.com/Angristan"
               target="_blank"
               rel="noopener"
@@ -67,7 +68,7 @@ const Header = ({ isHome }) => (
               </svg>
             </a>
             <a
-              class="social-link social-link-sh"
+              className="social-link social-link-sh"
               href="https://links.angristan.xyz"
               target="_blank"
               rel="noopener"
@@ -81,7 +82,7 @@ const Header = ({ isHome }) => (
             </a>
           </div>
           <a
-            class="rss-button"
+            className="rss-button"
             href="https://angristan.xyz/rss/"
             title="RSS"
             target="_blank"
