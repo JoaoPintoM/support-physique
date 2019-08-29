@@ -8,7 +8,6 @@ import Content from './Content';
 import Meta from './Meta';
 import Tags from './Tags';
 
-
 const Post = ({ post }) => {
   const { html } = post;
   const { tagSlugs, slug, categorySlug } = post.fields;
@@ -20,26 +19,43 @@ const Post = ({ post }) => {
 
       <header className="post-full-header">
         <section className="post-full-meta">
-          <time className="post-full-meta-date" dateTime={moment(post.frontmatter.date).format('YYYY-MM-DD')}>
+          <time
+            className="post-full-meta-date"
+            dateTime={moment(post.frontmatter.date).format('YYYY-MM-DD')}
+          >
             {moment(post.frontmatter.date).format('DD MMMM YYYY')}
           </time>
-          <span className="date-divider">/</span> <a href={categorySlug}>{post.frontmatter.category}</a>
+          <span className="date-divider">/</span>{' '}
+          <a href={categorySlug}>{post.frontmatter.category}</a>
         </section>
         <h1 className="post-full-title">{post.frontmatter.title}</h1>
       </header>
+
+      <figure className="post-full-image">
+        <img
+          srcset="/content/images/size/w300/2019/08/zfs_hetzner_cloud.png 300w,
+                            /content/images/size/w600/2019/08/zfs_hetzner_cloud.png 600w,
+                            /content/images/size/w1000/2019/08/zfs_hetzner_cloud.png 1000w,
+                            /content/images/size/w2000/2019/08/zfs_hetzner_cloud.png 2000w"
+          sizes="(max-width: 800px) 400px,
+                            (max-width: 1170px) 700px,
+                            1400px"
+          src="/content/images/size/w2000/2019/08/zfs_hetzner_cloud.png"
+          alt="post-image"
+        />
+      </figure>
 
       {/* <div>
         <Content body={html} title={title} />
       </div> */}
 
-<section className="post-full-content">
-<div className="post-content">
-{/* <p>I'm tired of reading countless of tutorials about this, many of which include a <em>lot</em> of unnecessary steps and do not work on all platform.</p><p>To put an end to this, I published a repo: <a href="https://github.com/angristan/php-xdebug-docker">php-xdebug-docker</a> with everything that is necessary to get Xdebug to work with VS Code and PhpStorm when running the PHP code inside a Docker container, including a tutorial for both editors.</p><p>The <code>Dockerfile</code> is based on the <code>php:7-apache</code> image. It installs and configure Xdebug. The most important parameters are <code>xdebug.remote_host</code> and <code>xdebug.idekey</code>, which I commented inside the <code>Dockerfile</code>.</p><p>I included a <code>docker-compose.yml</code> so you can inspire yourself from it, but also get and up in running easily to make sure everything works.</p> */}
+      <section className="post-full-content">
+        <div className="post-content">
+          {/* <p>I'm tired of reading countless of tutorials about this, many of which include a <em>lot</em> of unnecessary steps and do not work on all platform.</p><p>To put an end to this, I published a repo: <a href="https://github.com/angristan/php-xdebug-docker">php-xdebug-docker</a> with everything that is necessary to get Xdebug to work with VS Code and PhpStorm when running the PHP code inside a Docker container, including a tutorial for both editors.</p><p>The <code>Dockerfile</code> is based on the <code>php:7-apache</code> image. It installs and configure Xdebug. The most important parameters are <code>xdebug.remote_host</code> and <code>xdebug.idekey</code>, which I commented inside the <code>Dockerfile</code>.</p><p>I included a <code>docker-compose.yml</code> so you can inspire yourself from it, but also get and up in running easily to make sure everything works.</p> */}
 
-
-<Content body={html} title={title} />
-</div>
-</section>
+          <Content body={html} title={title} />
+        </div>
+      </section>
 
       <div>
         <Meta date={date} />

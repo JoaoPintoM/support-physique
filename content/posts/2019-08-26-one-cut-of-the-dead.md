@@ -1,7 +1,7 @@
 ---
 template: post
 title: One Cut Of The Dead
-slug: One Cut Of The Dead
+slug: one-cut-of-the-dead
 draft: false
 image: /media/one-cut-of-the-dead/onecut.jpeg
 date: 2019-08-26T20:10:47.045Z
