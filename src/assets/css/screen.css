@@ -154,38 +154,38 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 8vw 4vw;
+    padding: 10vw 4vw;
     min-height: 200px;
     max-height: 450px;
     text-align: center;
 }
 
 .responsive-header-img {
-  background-image: url(https://angristan.xyz/content/images/size/w2000/2018/01/Emptiness-by-Jaakko-Moilanen.jpg);
+  background-image: url(/media/headerbackground.jpeg);
 }
 @media(max-width: 1000px) {
   .responsive-header-img {
-      background-image: url(https://angristan.xyz/content/images/size/w1000/2018/01/Emptiness-by-Jaakko-Moilanen.jpg);
+      background-image: url(/media/headerbackground.jpeg);
       background-image: -webkit-image-set(
-              url(https://angristan.xyz/content/images/size/w1000/2018/01/Emptiness-by-Jaakko-Moilanen.jpg) 1x,
-              url(https://angristan.xyz/content/images/size/w1000/2018/01/Emptiness-by-Jaakko-Moilanen.jpg) 2x
+              url(/media/headerbackground.jpeg) 1x,
+              url(/media/headerbackground.jpeg) 2x
       );
       background-image: image-set(
-              url(https://angristan.xyz/content/images/size/w1000/2018/01/Emptiness-by-Jaakko-Moilanen.jpg) 1x,
-              url(https://angristan.xyz/content/images/size/w1000/2018/01/Emptiness-by-Jaakko-Moilanen.jpg) 2x
+              url(/media/headerbackground.jpeg) 1x,
+              url(/media/headerbackground.jpeg) 2x
       );
   }
 }
 @media(max-width: 600px) {
   .responsive-header-img {
-      background-image: url(https://angristan.xyz/content/images/size/w1000/2018/01/Emptiness-by-Jaakko-Moilanen.jpg);
+      background-image: url(/media/headerbackground.jpeg);
       background-image: -webkit-image-set(
-              url(https://angristan.xyz/content/images/size/w1000/2018/01/Emptiness-by-Jaakko-Moilanen.jpg) 1x,
-              url(https://angristan.xyz/content/images/size/w1000/2018/01/Emptiness-by-Jaakko-Moilanen.jpg) 2x
+              url(/media/headerbackground.jpeg) 1x,
+              url(/media/headerbackground.jpeg) 2x
       );
       background-image: image-set(
-              url(https://angristan.xyz/content/images/size/w1000/2018/01/Emptiness-by-Jaakko-Moilanen.jpg) 1x,
-              url(https://angristan.xyz/content/images/size/w1000/2018/01/Emptiness-by-Jaakko-Moilanen.jpg) 2x
+              url(/media/headerbackground.jpeg) 1x,
+              url(/media/headerbackground.jpeg) 2x
       );
   }
 }
@@ -430,9 +430,9 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .post-card:hover {
-    box-shadow: rgba(39,44,49,0.07) 8px 28px 50px, rgba(39, 44, 49, 0.04) 1px 6px 12px;
-    transition: all 0.4s ease;
-    transform: translate3D(0, -1px, 0) scale(1.02);
+    box-shadow: rgba(39,44,49,0.07) 8px 28px 50px, rgba(39, 44, 49, 0.2) 1px 6px 12px;
+    /* transition: all 0.4s ease;
+    transform: translate3D(0, -1px, 0) scale(1.02); */
 }
 
 .post-card-image-link {

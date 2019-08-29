@@ -7,6 +7,7 @@ import Header from '../Header/Header';
 // import '../../styles/app.css';
 // import '../../assets/built/screen.css';
 import '../../assets/css/screen.css';
+import '../../assets/css/custom.css';
 
 const Layout = ({ children, title, description, isHome, template }) => (
   <div className={template}>

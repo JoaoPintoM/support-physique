@@ -1,33 +1,18 @@
 // @flow strict
 import React from 'react';
+import HeaderMenu from './Menu';
 
 const Header = ({ isHome }) => (
-  <header className="site-header outer responsive-header-img"
-    >
+  <header className="site-header outer responsive-header-img">
     <div className="inner">
       {isHome ? (
         <div className="site-header-content">
-          <h1 className="site-title">prout</h1>
-          <h2 className="site-description">subprout</h2>
+          <h1 className="site-title">Support Physique</h1>
+          <h2 className="site-description">critiques ciné, blu-ray et steelbooks</h2>
         </div>
       ) : null}
       <nav className="site-nav">
-        <div className="site-nav-left">
-          <ul className="nav" role="menu">
-            <li className="nav-home nav-current" role="menuitem">
-              <a href="https://angristan.xyz/">Home</a>
-            </li>
-            <li className="nav-french-blog" role="menuitem">
-              <a href="https://angristan.fr/">French Blog</a>
-            </li>
-            <li className="nav-public-services" role="menuitem">
-              <a href="https://angristan.xyz/public-services/">Public Services</a>
-            </li>
-            <li className="nav-about" role="menuitem">
-              <a href="https://angristan.xyz/about/">About</a>
-            </li>
-          </ul>
-        </div>
+        <HeaderMenu />
         <div className="site-nav-right">
           <div className="social-links">
             <a
