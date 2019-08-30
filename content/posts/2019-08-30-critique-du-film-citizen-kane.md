@@ -2,7 +2,7 @@
 template: post
 title: Critique du film Citizen Kane
 slug: critique-citizen-kane
-image: http://festival-resistances.fr/wp-content/uploads/2015/05/jpg_citizen-kane.jpg
+image: /media/post/citizen/citizen.jpg
 draft: false
 date: 2019-08-30T16:17:40.909Z
 description: >-
@@ -14,7 +14,7 @@ tags:
   - A+
   - critique
 ---
-![](http://festival-resistances.fr/wp-content/uploads/2015/05/jpg_citizen-kane.jpg)
+![](/media/post/citizen/citizen.jpg)
 
 On ne le présente plus, **Citizen Kane** est devenu un meme de nos jours, considérer par certains comme l’un des meilleurs films de tous les temps, ce film de **Orson Welles** est devenu avec le temps sauvagement culte.
 
