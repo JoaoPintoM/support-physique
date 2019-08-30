@@ -178,7 +178,7 @@ module.exports = {
         output: '/sitemap.xml',
         serialize: ({ site, allSitePage }) => allSitePage.edges.map((edge) => ({
           url: site.siteMetadata.siteUrl + edge.node.path,
-          changefreq: 'daily',
+          changefreq: 'monthly',
           priority: 0.7
         }))
       }

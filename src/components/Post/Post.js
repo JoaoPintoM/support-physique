@@ -31,20 +31,6 @@ const Post = ({ post }) => {
         <h1 className="post-full-title">{post.frontmatter.title}</h1>
       </header>
 
-      <figure className="post-full-image">
-        <img
-          srcset="/content/images/size/w300/2019/08/zfs_hetzner_cloud.png 300w,
-                            /content/images/size/w600/2019/08/zfs_hetzner_cloud.png 600w,
-                            /content/images/size/w1000/2019/08/zfs_hetzner_cloud.png 1000w,
-                            /content/images/size/w2000/2019/08/zfs_hetzner_cloud.png 2000w"
-          sizes="(max-width: 800px) 400px,
-                            (max-width: 1170px) 700px,
-                            1400px"
-          src="/content/images/size/w2000/2019/08/zfs_hetzner_cloud.png"
-          alt="post-image"
-        />
-      </figure>
-
       {/* <div>
         <Content body={html} title={title} />
       </div> */}
