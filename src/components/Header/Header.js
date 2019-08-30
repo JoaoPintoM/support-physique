@@ -14,7 +14,7 @@ const Header = ({ isHome }) => (
       <nav className="site-nav">
         <HeaderMenu />
         <div className="site-nav-right">
-          <div className="social-links">
+          {/* <div className="social-links">
             <a
               className="social-link social-link-tw"
               href="https://twitter.com/fuolpit"
@@ -65,7 +65,7 @@ const Header = ({ isHome }) => (
                 ></path>
               </svg>
             </a>
-          </div>
+          </div> */}
           <a
             className="rss-button"
             href="https://angristan.xyz/rss/"

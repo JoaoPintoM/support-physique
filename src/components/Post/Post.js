@@ -49,7 +49,6 @@ const Post = ({ post }) => {
         <Author />
       </div>
 
-      <p>lol</p>
 
       <div>
         <Comments postSlug={slug} postTitle={post.frontmatter.title} />

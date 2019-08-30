@@ -11,6 +11,7 @@ description: >-
   cinématographique.
 category: critique ciné
 tags:
+  - critique
   - zombie
   - dead
 ---
