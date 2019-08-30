@@ -9,7 +9,7 @@ description: >-
   On ne le présente plus, Citizen Kane est devenu un meme de nos jours,
   considérer par certains comme l’un des meilleurs films de tous les temps, ce
   film de Orson Welles est devenu avec le temps sauvagement culte.
-category: CRITIQUE CINÉ
+category: critique ciné
 tags:
   - A+
   - critique
