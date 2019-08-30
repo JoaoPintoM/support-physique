@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Support-physique]]></title><description><![CDATA[Tests de blu-ray et critiques de films]]></description><link>http://support-physique.com/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 30 Aug 2019 16:32:43 GMT</lastBuildDate><item><title><![CDATA[Critique du film Citizen Kane]]></title><description><![CDATA[On ne le présente plus, Citizen Kane est devenu un meme de nos jours, considérer par certains comme l’un des meilleurs films de tous les temps, ce film de Orson Welles est devenu avec le temps sauvagement culte.]]></description><link>http://support-physique.com/critique-citizen-kane</link><guid isPermaLink="false">http://support-physique.com/critique-citizen-kane</guid><pubDate>Fri, 30 Aug 2019 16:17:40 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;http://festival-resistances.fr/wp-content/uploads/2015/05/jpg_citizen-kane.jpg&quot;&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Support-physique]]></title><description><![CDATA[Tests de blu-ray et critiques de films]]></description><link>http://support-physique.com/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 30 Aug 2019 18:16:43 GMT</lastBuildDate><item><title><![CDATA[Critique du film Citizen Kane]]></title><description><![CDATA[On ne le présente plus, Citizen Kane est devenu un meme de nos jours, considérer par certains comme l’un des meilleurs films de tous les temps, ce film de Orson Welles est devenu avec le temps sauvagement culte.]]></description><link>http://support-physique.com/critique-citizen-kane</link><guid isPermaLink="false">http://support-physique.com/critique-citizen-kane</guid><pubDate>Fri, 30 Aug 2019 16:17:40 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ff456366dfc451063de4e4e118dd2574/a296c/citizen.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQA/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABIrRPp8f/xAAbEAADAAIDAAAAAAAAAAAAAAABAgMAEhMyM//aAAgBAQABBQJ6a53mmzBkXjl7VJL/AP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABsQAAMAAgMAAAAAAAAAAAAAAAABERIxIUFR/9oACAEBAAY/ArItMWKnpXwaGuobP//EABwQAQACAgMBAAAAAAAAAAAAAAEAESExQXGBkf/aAAgBAQABPyHRI2qsvsFQVjDULyLuojMvcy4wURBa+z//2gAMAwEAAgADAAAAEAMP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGxABAAMBAQEBAAAAAAAAAAAAAQARITGBQXH/2gAIAQEAAT8QYoQiAFLdfIAM6iMLWzbvk5pYaqAB12IcAzqtubb4phtDn5ELDhSAPJ//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/ff456366dfc451063de4e4e118dd2574/01472/citizen.webp 240w,
+/static/ff456366dfc451063de4e4e118dd2574/222bd/citizen.webp 480w,
+/static/ff456366dfc451063de4e4e118dd2574/0cbce/citizen.webp 800w&quot;
+          sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/ff456366dfc451063de4e4e118dd2574/3bc27/citizen.jpg 240w,
+/static/ff456366dfc451063de4e4e118dd2574/98431/citizen.jpg 480w,
+/static/ff456366dfc451063de4e4e118dd2574/a296c/citizen.jpg 800w&quot;
+          sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/ff456366dfc451063de4e4e118dd2574/a296c/citizen.jpg&quot;
+          alt=&quot;citizen&quot;
+          title=&quot;citizen&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;On ne le présente plus, &lt;strong&gt;Citizen Kane&lt;/strong&gt; est devenu un meme de nos jours, considérer par certains comme l’un des meilleurs films de tous les temps, ce film de &lt;strong&gt;Orson Welles&lt;/strong&gt; est devenu avec le temps sauvagement culte.&lt;/p&gt;
 &lt;p&gt;Il est vrai que à notre époque, il n’est pas toujours facile de comprendre pourquoi ce film est tant plébiscité. En effet, l’histoire n’est pas sans défaut, on y trouve un gros trou scénaristique qui ne passera pas inaperçu et le récit se permet le luxe d’être assez banal et plutôt lent. Le « twist final » n’est pas non plus l’un des plus impressionnant et pourra laisser certains spectateurs sur leur faim.&lt;/p&gt;
 &lt;p&gt;Non, la force de Citizen Kane c’est sa &lt;strong&gt;technique&lt;/strong&gt;. En effet en 1941, ce film est techniquement au-dessus de tout ce qui se faisait à l’époque, on pourrait même le considérer moderne. (Chef opérateur : Gregg Toland). La technique de la profondeur de champ est très utilisé dans ce film pour créer des images nettes au premier plans ainsi que derrière. Tout simplement la photographie est parfaite dans ce classique du cinema.&lt;/p&gt;
