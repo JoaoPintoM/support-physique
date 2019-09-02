@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'http://support-physique.com/',
+  url: 'https://support-physique.com/',
   pathPrefix: '/',
   title: 'Support-physique',
   subtitle: 'Tests de blu-ray et critiques de films',
