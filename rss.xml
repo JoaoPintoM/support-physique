@@ -1,4 +1,176 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Support-physique]]></title><description><![CDATA[Tests de blu-ray et critiques de films]]></description><link>https://support-physique.com/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 05 Sep 2019 11:38:31 GMT</lastBuildDate><item><title><![CDATA[Test Steelbook UltraHD 4K de Rampage]]></title><description><![CDATA[Nous voilà pour le premier test de Blu-ray sur le site support-physique. J’aurais pu choisir un film excellent, un film populaire ou un œuvre culte, mais j’ai plutôt choisi de commencer avec un film plutôt moyen !]]></description><link>https://support-physique.com/rampage</link><guid isPermaLink="false">https://support-physique.com/rampage</guid><pubDate>Tue, 03 Sep 2019 17:17:40 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Support-physique]]></title><description><![CDATA[Tests de blu-ray et critiques de films]]></description><link>https://support-physique.com/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 13 Sep 2019 06:59:04 GMT</lastBuildDate><item><title><![CDATA[Test du film Us + Steelbook 4K]]></title><description><![CDATA[Quatre personnes, vous ressemblant, se tenant la main dans votre allée, ca fait peur ?]]></description><link>https://support-physique.com/us</link><guid isPermaLink="false">https://support-physique.com/us</guid><pubDate>Thu, 12 Sep 2019 17:17:40 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2f2346fa93bbbdd0be8e5feb2ca72b0f/b3ee8/usimage.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.56250000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAABBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHgrGko1kz/AP/EABoQAAICAwAAAAAAAAAAAAAAAAABAhARMTP/2gAIAQEAAQUCW80iPI//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPwEn/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGBAAAgMAAAAAAAAAAAAAAAAAARAAAhH/2gAIAQEABj8ChOuxX//EABsQAAICAwEAAAAAAAAAAAAAAAERABAhMUFR/9oACAEBAAE/IVV6gLrWM+Q7oD6K/9oADAMBAAIAAwAAABAgz//EABURAQEAAAAAAAAAAAAAAAAAABAx/9oACAEDAQE/EIP/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxBn/8QAGxABAQACAwEAAAAAAAAAAAAAAREAIRAxUWH/2gAIAQEAAT8Q7HK24aoQ1GyNTHWvuAVuEoUsH5OP/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/2f2346fa93bbbdd0be8e5feb2ca72b0f/01472/usimage.webp 240w,
+/static/2f2346fa93bbbdd0be8e5feb2ca72b0f/222bd/usimage.webp 480w,
+/static/2f2346fa93bbbdd0be8e5feb2ca72b0f/620b9/usimage.webp 960w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/2f2346fa93bbbdd0be8e5feb2ca72b0f/3bc27/usimage.jpg 240w,
+/static/2f2346fa93bbbdd0be8e5feb2ca72b0f/98431/usimage.jpg 480w,
+/static/2f2346fa93bbbdd0be8e5feb2ca72b0f/b3ee8/usimage.jpg 960w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/2f2346fa93bbbdd0be8e5feb2ca72b0f/b3ee8/usimage.jpg&quot;
+          alt=&quot;usimage&quot;
+          title=&quot;usimage&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;La version en ma possession est le &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Us Steelbook Edition Spéciale Fnac Blu-ray 4K Ultra HD&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;le-film&quot;&gt;&lt;a href=&quot;#le-film&quot; aria-label=&quot;le film permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Le film&lt;/h3&gt;
+&lt;p&gt;Avec Get Out, le réalisateur Jordan Peele, nous avait déjà conquis en nous plongeant dans un mystère du début à la fin. C’était un film unique en son genre avec une idée de départ des plus intéressantes.
+Us ressemble un peu à Get Out sur la forme, c’est très bien filmé et bien mit en scène.&lt;/p&gt;
+&lt;p&gt;On y suit une famille en vacances qui se retrouve confronté à la présence de 4 individus, leur ressemblant, sur la pelouse de leur jardin. C’est un film d’horreur, un peu plus gore que Get Out qui lui était un peu moins classique dans le genre horrifique, qui explore plusieurs thèmes dont celui de la dualité et de l’identité. &lt;/p&gt;
+&lt;p&gt;Le film est très divertissant. On passe d’une scène flippante à des moments de gags, puis à de l’action et ainsi de suite jusqu’a la fin. Tout ceci donne un rythme un peu perturbant au film, ca plaira à certaines personnes mais pourra en décevoir d’autres s’attendant à plus de moment horrifiques.&lt;/p&gt;
+&lt;h4 id=&quot;ce-que-jai-aimé-&quot;&gt;&lt;a href=&quot;#ce-que-jai-aim%C3%A9-&quot; aria-label=&quot;ce que jai aimé  permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Ce que j’ai aimé :&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;L’actrice; Lupita Nyong’o&lt;/li&gt;
+&lt;li&gt;Drole&lt;/li&gt;
+&lt;li&gt;Re-regardable&lt;/li&gt;
+&lt;li&gt;Un meilleur film d’horreur que Get Out&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;ce-qui-est-moins-bon-&quot;&gt;&lt;a href=&quot;#ce-qui-est-moins-bon-&quot; aria-label=&quot;ce qui est moins bon  permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Ce qui est moins bon :&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Un rythme haché&lt;/li&gt;
+&lt;li&gt;Un moins bon film que Get Out&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La note du film:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;#x3C;&amp;#x3C; &lt;strong&gt;B-&lt;/strong&gt; &gt;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;la-video&quot;&gt;&lt;a href=&quot;#la-video&quot; aria-label=&quot;la video permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;La video&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;4/5&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Le film a été tourné en grande partie en 3,4K mais le master pour le cinéma et le blu-ray à été downscale en 2K. Bref, ok ce n’est pas une image full 4K, mais la qualité de la version UltraHD est nettement supérieure au blu-ray classique. Sur du matos de qualité (chez moi un écran OLED), l’image présente plus de détails. On le remarque surtout sur les grands plans comme les paysages qui sont magnifiques et regorgent de détails.&lt;/p&gt;
+&lt;p&gt;Comme les publications 4K nous ont habitué, nous payons plus cher nos blu-ray UDH pour l’HDR. La scène d’intro, dans le parc d’attraction, est celle où l’effet est le plus saisissant, l’image est propre, le noir profond et les couleurs sont explosives. &lt;/p&gt;
+&lt;h3 id=&quot;le-son&quot;&gt;&lt;a href=&quot;#le-son&quot; aria-label=&quot;le son permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Le son&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;4/5&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La piste anglaise est en Dolby Atmos ce qui complimente vraiment la belle image. Sur une bonne installation, vous aurez vraiment l’impression que la menace vient de partout. Le son est donc encore une fois l’une des forces de ce blu-ray 4K. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/89bbbaa04944cfe46f1b210cea311abc/2bf04/us03.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 63.83495145631068%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABQm2JdCSGX//EABoQAAIDAQEAAAAAAAAAAAAAAAIDAAESBCH/2gAIAQEAAQUCdR6UVwm5vpXRGpeoA+f/xAAYEQACAwAAAAAAAAAAAAAAAAAAEQESIf/aAAgBAwEBPwGsrRH/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwFZ/8QAHBAAAgICAwAAAAAAAAAAAAAAAAERITFRAiJB/9oACAEBAAY/Au3LzYrZFs1CJnBln//EABsQAAIDAAMAAAAAAAAAAAAAAAABESExUWGh/9oACAEBAAE/IXZW2QnVr5EeAREEwzrVoRtrfZ//2gAMAwEAAgADAAAAEBQ//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QADD/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAECAQE/ENFB5bf/xAAeEAEBAAEEAwEAAAAAAAAAAAABEQAhMUFRYaHh8P/aAAgBAQABPxDXzGoqlegwc0JKLsx7E+QD3nIAiFH9cMHRABu35mrMlrt8Z//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/89bbbaa04944cfe46f1b210cea311abc/01472/us03.webp 240w,
+/static/89bbbaa04944cfe46f1b210cea311abc/222bd/us03.webp 480w,
+/static/89bbbaa04944cfe46f1b210cea311abc/620b9/us03.webp 960w,
+/static/89bbbaa04944cfe46f1b210cea311abc/28063/us03.webp 1440w,
+/static/89bbbaa04944cfe46f1b210cea311abc/ba6cd/us03.webp 1648w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/89bbbaa04944cfe46f1b210cea311abc/3bc27/us03.jpg 240w,
+/static/89bbbaa04944cfe46f1b210cea311abc/98431/us03.jpg 480w,
+/static/89bbbaa04944cfe46f1b210cea311abc/b3ee8/us03.jpg 960w,
+/static/89bbbaa04944cfe46f1b210cea311abc/b97fe/us03.jpg 1440w,
+/static/89bbbaa04944cfe46f1b210cea311abc/2bf04/us03.jpg 1648w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/89bbbaa04944cfe46f1b210cea311abc/b3ee8/us03.jpg&quot;
+          alt=&quot;us03&quot;
+          title=&quot;us03&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&quot;le-steelbook&quot;&gt;&lt;a href=&quot;#le-steelbook&quot; aria-label=&quot;le steelbook permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Le Steelbook&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;5/5&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;C’est tout simplement l’un des plus beau steelbook de ma collection, la présentation me parle à un tel point que j’ai acheté ce film à l’aveugle juste pour le steelbook lui même. C’est sobre, c’est énigmatique, ca attire le regard des gens qui parcourent votre bibliothèque.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/be4d8ebd4350b6c9f6227d622f108cec/37223/us02.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 63.7922586967173%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAF5qVhlBf/EABsQAAMAAgMAAAAAAAAAAAAAAAECAwAREhMi/9oACAEBAAEFAkpl3PbF24IPTyBwDS//xAAXEQADAQAAAAAAAAAAAAAAAAAAASER/9oACAEDAQE/AVaaj//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8Bb2EZ/8QAHBAAAgEFAQAAAAAAAAAAAAAAAAERECEiQVGB/9oACAEBAAY/AknoxmDvo1RKx//EABoQAQACAwEAAAAAAAAAAAAAAAEAESExQVH/2gAIAQEAAT8hCgXeo02AOYgMyy9jatu4plb9hkGB5P/aAAwDAQACAAMAAAAQtw//xAAYEQEBAAMAAAAAAAAAAAAAAAABABEhsf/aAAgBAwEBPxAgmHS9v//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8QWgpsP//EAB0QAQEAAgIDAQAAAAAAAAAAAAERAEEhMWFxocH/2gAIAQEAAT8QEcS0grHeC5AnOGd/cLUoK1GFPWJY1Xpz3gTeidzxi7YPLa7/AHP/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/be4d8ebd4350b6c9f6227d622f108cec/01472/us02.webp 240w,
+/static/be4d8ebd4350b6c9f6227d622f108cec/222bd/us02.webp 480w,
+/static/be4d8ebd4350b6c9f6227d622f108cec/620b9/us02.webp 960w,
+/static/be4d8ebd4350b6c9f6227d622f108cec/28063/us02.webp 1440w,
+/static/be4d8ebd4350b6c9f6227d622f108cec/34ef4/us02.webp 1920w,
+/static/be4d8ebd4350b6c9f6227d622f108cec/3c0c4/us02.webp 2041w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/be4d8ebd4350b6c9f6227d622f108cec/3bc27/us02.jpg 240w,
+/static/be4d8ebd4350b6c9f6227d622f108cec/98431/us02.jpg 480w,
+/static/be4d8ebd4350b6c9f6227d622f108cec/b3ee8/us02.jpg 960w,
+/static/be4d8ebd4350b6c9f6227d622f108cec/b97fe/us02.jpg 1440w,
+/static/be4d8ebd4350b6c9f6227d622f108cec/fb329/us02.jpg 1920w,
+/static/be4d8ebd4350b6c9f6227d622f108cec/37223/us02.jpg 2041w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/be4d8ebd4350b6c9f6227d622f108cec/b3ee8/us02.jpg&quot;
+          alt=&quot;us02&quot;
+          title=&quot;us02&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Stagounet.&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Test Steelbook UltraHD 4K de Rampage]]></title><description><![CDATA[Nous voilà pour le premier test de Blu-ray sur le site support-physique. J’aurais pu choisir un film excellent, un film populaire ou un œuvre culte, mais j’ai plutôt choisi de commencer avec un film plutôt moyen !]]></description><link>https://support-physique.com/rampage</link><guid isPermaLink="false">https://support-physique.com/rampage</guid><pubDate>Tue, 03 Sep 2019 17:17:40 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 750px;&quot;
     &gt;
