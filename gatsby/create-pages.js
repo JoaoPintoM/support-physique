@@ -15,6 +15,11 @@ const createPages = async ({ graphql, actions }) => {
     component: path.resolve('./src/templates/not-found-template.js')
   });
 
+  createPage({
+    path: '/collection.html',
+    component: path.resolve('./src/templates/collection-template.js')
+  });
+
   // Tags list
   createPage({
     path: '/tags',
@@ -52,13 +57,13 @@ const createPages = async ({ graphql, actions }) => {
   _.each(edges, (edge) => {
     if (_.get(edge, 'node.frontmatter.template') === 'page') {
       createPage({
-        path: edge.node.fields.slug,
+        path: `${edge.node.fields.slug}.html`,
         component: path.resolve('./src/templates/page-template.js'),
         context: { slug: edge.node.fields.slug }
       });
     } else if (_.get(edge, 'node.frontmatter.template') === 'post') {
       createPage({
-        path: edge.node.fields.slug,
+        path: `${edge.node.fields.slug}.html`,
         component: path.resolve('./src/templates/post-template.js'),
         context: { slug: edge.node.fields.slug }
       });

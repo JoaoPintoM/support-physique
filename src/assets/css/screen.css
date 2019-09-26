@@ -32,6 +32,24 @@ production stylesheet in assets/built/screen.css
 @import "global.css";
 /* @import "app.css"; */
 
+.row { 
+  display:flex;
+  flex-wrap: wrap;
+}
+
+.column {
+  text-align: center;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 1;
+  
+  margin: 10px;
+  
+  background-color: #ffffff;
+  border: 1px solid #dedede;
+  padding: 10px;
+  
+}
 
 body {
     background: #f4f8fb;

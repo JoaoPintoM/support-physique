@@ -7,7 +7,7 @@ const Feed = ({ edges }) => (
   <div className="post-feed">
     {edges.map((edge, index) => (
       <article key={edge.node.fields.slug} className={`post-card post  ${(index === 0 ? 'post-card-large' : '')}`}>
-        <Link to={edge.node.fields.slug} className="post-card-image-link">
+        <Link to={`${edge.node.fields.slug}.html`} className="post-card-image-link">
           <img
             className="post-card-image"
             //     srcset="https://angristan.xyz/content/images/size/w300/2019/08/ghost-nginx.png 300w,
@@ -20,7 +20,7 @@ const Feed = ({ edges }) => (
           />
         </Link>
         <div className="post-card-content">
-          <Link to={edge.node.fields.slug} className="post-card-content-link">
+          <Link to={`${edge.node.fields.slug}.html`} className="post-card-content-link">
             <header className="post-card-header">
               <span className="post-card-tags">{edge.node.frontmatter.category}</span>
               <h2 className="post-card-title">{edge.node.frontmatter.title}</h2>
