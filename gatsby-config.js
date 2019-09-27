@@ -21,11 +21,11 @@ module.exports = {
         shortname: 'support-physique-com'
       }
     },
-    `gatsby-transformer-json`,
+    'gatsby-transformer-json',
     {
-      resolve: `gatsby-source-filesystem`,
+      resolve: 'gatsby-source-filesystem',
       options: {
-        path: `./src/data/`,
+        path: './src/data/',
       },
     },
     {

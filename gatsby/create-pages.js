@@ -15,11 +15,6 @@ const createPages = async ({ graphql, actions }) => {
     component: path.resolve('./src/templates/not-found-template.js')
   });
 
-  createPage({
-    path: '/collection.html',
-    component: path.resolve('./src/templates/collection-template.js')
-  });
-
   // Tags list
   createPage({
     path: '/tags',
@@ -74,6 +69,12 @@ const createPages = async ({ graphql, actions }) => {
   await createTagsPages(graphql, actions);
   await createCategoriesPages(graphql, actions);
   await createPostsPages(graphql, actions);
+
+
+  createPage({
+    path: '/collection.html',
+    component: path.resolve('./src/templates/collection-template.js')
+  });
 };
 
 
