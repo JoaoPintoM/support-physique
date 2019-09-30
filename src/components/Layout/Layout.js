@@ -34,7 +34,7 @@ const Layout = ({ children, title, description, isHome, template }) => (
             <p>Stagounet</p>
           </section>
           <nav className="site-footer-nav">
-            <a href="/about/">About</a>
+            <a href="/about">About</a>
           </nav>
         </div>
       </footer>

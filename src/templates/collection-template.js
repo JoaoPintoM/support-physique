@@ -16,7 +16,7 @@ const CollectionTemplate = ({ data }) => {
           {edges.map((edge) => (
             <div key={edge.node.id} className="column">
               <img src={edge.node.Poster} alt={edge.node.Title}
-                width="300px"
+                width="280px"
                 height="400px"
               />
             </div>
