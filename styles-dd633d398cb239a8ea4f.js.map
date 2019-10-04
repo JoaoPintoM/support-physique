@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/Icon/Icon.module.scss"],"names":["module","exports","icon"],"mappings":"yHACAA,EAAAC,QAAA,CAAkBC,KAAA","file":"styles-dd633d398cb239a8ea4f.js","sourcesContent":["// extracted by mini-css-extract-plugin\nmodule.exports = {\"icon\":\"Icon-module--icon--Gpyvw\"};"],"sourceRoot":""}
