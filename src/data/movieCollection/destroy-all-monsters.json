@@ -16,7 +16,7 @@
   "Ratings": [
     {
       "Source": "Internet Movie Database",
-      "Value": "6.6/10"
+      "Value": "6.5/10"
     },
     {
       "Source": "Rotten Tomatoes",
@@ -24,8 +24,8 @@
     }
   ],
   "Metascore": "N/A",
-  "imdbRating": "6.6",
-  "imdbVotes": "4,072",
+  "imdbRating": "6.5",
+  "imdbVotes": "4,378",
   "imdbID": "tt0063172",
   "Type": "movie",
   "DVD": "03 Feb 2000",
