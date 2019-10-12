@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://support-physique.com/tags</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://support-physique.com/categories</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://support-physique.com/one-cut-of-the-dead.html</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://support-physique.com/red-sparrow.html</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://support-physique.com/pages/about.html</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://support-physique.com/pages/contacts.html</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://support-physique.com/la-notation.html</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://support-physique.com/one-cut-of-the-dead.html</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://support-physique.com/rampage.html</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://support-physique.com/us.html</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://support-physique.com/critique-citizen-kane.html</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://support-physique.com/us.html</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://support-physique.com/la-notation.html</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://support-physique.com/tag/4-k</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://support-physique.com/tag/a</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://support-physique.com/tag/blu-ray</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
