@@ -1,7 +1,7 @@
 ---
 template: post
 title: Don't be afraid of the dark (2011) - Critique de Film
-slug: vide-dont-be-afraid-of-the-dark
+slug: video-dont-be-afraid-of-the-dark
 image: /media/post/dont-be-afraid/dark.jpg
 draft: false
 date: 2019-10-14T17:17:40.909Z
