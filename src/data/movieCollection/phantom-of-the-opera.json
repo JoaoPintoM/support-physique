@@ -1,0 +1,36 @@
+{
+  "Title": "Phantom of the Opera",
+  "Year": "1943",
+  "Rated": "Approved",
+  "Released": "27 Aug 1943",
+  "Runtime": "92 min",
+  "Genre": "Drama, Horror, Music, Romance, Thriller",
+  "Director": "Arthur Lubin",
+  "Writer": "Eric Taylor (screenplay), Samuel Hoffenstein (screenplay), Hans Jacoby (adaptation), Gaston Leroux (novel)",
+  "Actors": "Nelson Eddy, Susanna Foster, Claude Rains, Edgar Barrier",
+  "Plot": "A disfigured violinist haunts the Paris Opera House.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "Won 2 Oscars. Another 1 win & 3 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjM5MDU5MDU2NV5BMl5BanBnXkFtZTgwMTY2NzcyMjE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "6.5",
+  "imdbVotes": "5,808",
+  "imdbID": "tt0036261",
+  "Type": "movie",
+  "DVD": "12 Apr 2005",
+  "BoxOffice": "N/A",
+  "Production": "MCA Universal Home Video",
+  "Website": "N/A",
+  "Response": "True"
+}
