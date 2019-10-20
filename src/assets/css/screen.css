@@ -48,7 +48,12 @@ production stylesheet in assets/built/screen.css
   background-color: #ffffff;
   border: 1px solid #dedede;
   padding: 10px;
-  
+}
+
+@media (min-width: 1200px) {
+  .column {
+   flex: 1 0 21%; 
+  }
 }
 
 body {

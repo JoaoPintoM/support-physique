@@ -9,7 +9,7 @@ import Header from '../Header/Header';
 import '../../assets/css/screen.css';
 import '../../assets/css/custom.css';
 
-const Layout = ({ children, title, description, isHome, template }) => (
+const Layout = ({ children, title, description, isHome, template, isCollection }) => (
   <div className={template}>
     <Helmet>
       <html lang="en" />
@@ -23,9 +23,12 @@ const Layout = ({ children, title, description, isHome, template }) => (
     <div className="site-wrapper">
       <Header isHome={isHome} />
       <main id="site-main" className="site-main outer">
-        <div className="inner">
-          {children}
-        </div>
+        {(() => {
+          if (isCollection) {
+            return (<div>{children}</div>);
+          }
+          return (<div className="inner">{children}</div>);
+        })()}
       </main>
 
       <footer className="site-footer outer">

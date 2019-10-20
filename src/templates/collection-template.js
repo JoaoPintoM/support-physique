@@ -10,7 +10,7 @@ const CollectionTemplate = ({ data }) => {
   const pageTitle = 'Ma Collection';
 
   return (
-    <Layout title={pageTitle}>
+    <Layout title={pageTitle} isCollection={true} >
       <Page>
         <div className="row">
           {edges.map((edge) => (
@@ -19,6 +19,20 @@ const CollectionTemplate = ({ data }) => {
                 width="280px"
                 height="400px"
               />
+
+
+          <div className="post-card-content">
+            <header className="post-card-header">
+              {/* <span className="post-card-tags">test</span> */}
+              <h2
+                className="post-card-title"
+                style={{ marginTop: '20px' }} >{edge.node.Title}</h2>
+            </header>
+            {/* <section className="post-card-excerpt">
+              <p>test test</p>
+            </section> */}
+        </div>
+              
             </div>
           ))}
         </div>
